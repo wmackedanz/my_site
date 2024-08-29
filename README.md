@@ -1,3 +1,3 @@
 # my_site
  
-**Typing words!!**
+**Typing** words!!
